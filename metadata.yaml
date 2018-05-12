@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33901
     wikipedia: http://en.wikipedia.org/wiki/Arthur_J._Burks
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29466#Lords-of-the-Stratosphere
 gutenberg_bookshelf:
 - Astounding Stories
 - Science Fiction
